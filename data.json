@@ -1,0 +1,44 @@
+[
+  {
+    "eid": 1255,
+    "name": "Samantha",
+    "salary": 50000.0,
+    "full_time": true,
+    "age": 28
+  },
+  {
+    "eid": 1299,
+    "name": "Amanda",
+    "salary": 15000.0,
+    "full_time": true,
+    "age": 43
+  },
+  {
+    "eid": 1233,
+    "name": "Mike",
+    "salary": 33000.0,
+    "full_time": true,
+    "age": 31
+  },
+  {
+    "eid": 1266,
+    "name": "Vicky",
+    "salary": 25000.0,
+    "full_time": false,
+    "age": 36
+  },
+  {
+    "eid": 1244,
+    "name": "Charles",
+    "salary": 14000.0,
+    "full_time": true,
+    "age": 45
+  },
+  {
+    "age": 29,
+    "eid": 1114,
+    "full_time": false,
+    "name": "frd",
+    "salary": 23000.0
+  }
+]
